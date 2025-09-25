@@ -12,7 +12,7 @@
 StockGro is a sophisticated financial analysis project that implements a **multi-model ensemble approach** for stock price forecasting and portfolio optimization on NSE (National Stock Exchange) stocks. The project combines traditional econometric models with modern machine learning techniques to create robust investment strategies.
 
 ### 🏆 Key Achievement
-- **Portfolio Performance**: +0.23% returns on ₹10,00,000 capital allocation
+- **Portfolio Performance**: +0.33% returns on ₹10,00,000 capital allocation
 - **Model Accuracy**: Superior performance through ensemble learning
 - **Risk Management**: Volatility-adjusted portfolio optimization
 
